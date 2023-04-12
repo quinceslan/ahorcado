@@ -1,0 +1,8 @@
+futbol
+basquetbol
+golf
+soccer
+boleybol
+tenis
+ajedrez
+pingpong

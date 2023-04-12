@@ -1,0 +1,10 @@
+ingenieria
+arquitectura
+contabilidad
+derecho
+ciencias
+estadistica
+economia
+matematicas
+fisica
+veterinaria

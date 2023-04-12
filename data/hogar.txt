@@ -1,0 +1,12 @@
+ropero
+silla
+comedor
+cocina
+recamara
+dormitorio
+computadora
+aspiradora
+living
+television
+router
+wifi
